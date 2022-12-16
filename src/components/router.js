@@ -1,7 +1,7 @@
-import { welcome } from './Welcome.js';
-import { login, eventsLogin } from './Login.js';
-import { registro, eventsRegistro } from './Registro.js';
-import { eventsTimeLine, timeline } from './Timeline.js';
+import { welcome } from './welcome.js';
+import { login, eventsLogin } from './login.js';
+import { registro, eventsRegistro } from './registro.js';
+import { eventsTimeLine, timeline } from './timeline.js';
 import { eventsResetPassword, resetPassword } from './Recuperar.js';
 import { Perfil, eventsPerfil } from './Perfil.js';
 
