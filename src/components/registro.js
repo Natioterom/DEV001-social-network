@@ -27,7 +27,7 @@ export const registro = () => {
         <div class="error"></div>  
     </section>
     <div class="img-desktop">
-    <img src="assets/img/background_principal__rec.jpg">
+    <img src="https://firebasestorage.goolt=media&token=7f0de2c3-886e-4427-b3f9-8b731be8f33e">
   </div>
   </section>`;
   return pageRegistro;
