@@ -1,6 +1,6 @@
-import { login } from './components/Login.js';
-import { Router, exeEvents } from './components/Router.js';
-import { timeline } from './components/Timeline.js';
+import { login } from './components/login.js';
+import { Router, exeEvents } from './components/router.js';
+import { timeline } from './components/timeline.js';
 
 const $ = (selector) => document.querySelector(selector);
 
